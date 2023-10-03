@@ -12,6 +12,11 @@ O objetivo deste desafio é criar um relatório mais elaborado com base na amost
  - Explorar indicadores e botões para selecionar diferentes visuais relacionados ao mesmo tema.
  - Seguir os vídeos passo a passo fornecidos para criar os elementos da primeira página do relatório, incluindo objetos que definem o layout do relatório, gráficos e seus campos, botões de navegação e segmentadores de dados.
 
+## Apresentação do Dashboard 
+
+![projetodio-1](https://github.com/oiRudy/desafio_dio_sa_2_PBI/assets/139499341/face49ec-f66c-4cd7-91e6-6d321aa0b506)
+![projetodio-2](https://github.com/oiRudy/desafio_dio_sa_2_PBI/assets/139499341/63f4b759-66d6-4bd4-9be5-706b16aba410)
+
 ## Aprendizados
 
 Durante o desafio, tive a chance de aplicar meus conhecimentos em Power BI e criar um dashboard elegante. Fui capaz de aprimorar minhas habilidades e demonstrei minha capacidade de desenvolver soluções práticas e eficientes.
